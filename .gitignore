@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.log
+logs/
+venv/
+.env
+*.tflite
+src/cloud/firebase_key.json
+src/cloud/config.json
+src/ble/wifi.json
+*.secret.json
+*key.json

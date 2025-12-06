@@ -71,4 +71,7 @@ O projeto foi desenvolvido para auxiliar pessoas com deficiência auditiva, perm
  - Guilherme Marcato Mendes Justiça
 
 Centro Universitário FEI – Ciência da Computação
+
+Trabalho de Conclusão de Curso
+
 2025

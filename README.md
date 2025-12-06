@@ -39,7 +39,6 @@ O projeto foi desenvolvido para auxiliar pessoas com deficiência auditiva, perm
   - `tensorflow-lite`
   - `firebase-admin`
   - `libatlas-base-dev` (para otimização)
-  - 
 ---
 
 ## 📦 Instalação
